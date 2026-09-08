@@ -1,0 +1,50 @@
+[
+  {
+    "paper": "HM3: Hierarchical Multi-Objective Model Merging for Pretrained Models",
+    "figure": "Figure 1",
+    "description": "Architecture-level model merging: model-layer pool, actor-critic inference-path search, and Pareto frontier.",
+    "file": "hm3-figure1.png",
+    "pdf_page": 5,
+    "source_pdf": "https://papers.nips.cc/paper_files/paper/2025/file/a6b64e06886a190fabaaeecc695ea537-Paper-Conference.pdf",
+    "paper_url": "https://proceedings.nips.cc/paper_files/paper/2025/hash/a6b64e06886a190fabaaeecc695ea537-Abstract-Conference.html",
+    "source_type": "Official NeurIPS proceedings PDF",
+    "absolute_path": "/Users/rainy/Documents/ChatGPT/CV/paper-assets/hm3-figure1.png",
+    "pixels": [
+      1690,
+      475
+    ],
+    "processing": "Rasterized original figure crop from PDF with Poppler; no semantic changes; caption excluded."
+  },
+  {
+    "paper": "Building LLMs Like LEGO: Two-dimensional Architecture Reassembly of Large Language Models",
+    "figure": "Figure 1",
+    "description": "LEGO-LLM overview: model repository, chromosome/gene representation, and bilevel vertical/horizontal architecture optimization.",
+    "file": "lego-llm-figure1.png",
+    "pdf_page": 2,
+    "source_pdf": "https://aclanthology.org/2026.acl-long.2081.pdf",
+    "paper_url": "https://aclanthology.org/2026.acl-long.2081/",
+    "source_type": "Official ACL Anthology PDF",
+    "absolute_path": "/Users/rainy/Documents/ChatGPT/CV/paper-assets/lego-llm-figure1.png",
+    "pixels": [
+      1525,
+      890
+    ],
+    "processing": "Rasterized original figure crop from PDF with Poppler; no semantic changes; caption excluded."
+  },
+  {
+    "paper": "Decomposition and Meta-DRL Based Multi-Objective Optimization for Asynchronous Federated Learning in 6G-Satellite Systems",
+    "figure": "Figure 1",
+    "description": "LEO-FL system overview with satellite aggregation, ground devices, model uploading/sharing, and applications.",
+    "file": "dmmafl-figure1.png",
+    "pdf_page": 4,
+    "source_pdf": "https://backend.orbit.dtu.dk/ws/portalfiles/portal/348818439/1.Camera-ready_paper-DMMAFL.pdf",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/10436092",
+    "source_type": "Peer-reviewed author manuscript in DTU Orbit; not publisher typeset PDF",
+    "absolute_path": "/Users/rainy/Documents/ChatGPT/CV/paper-assets/dmmafl-figure1.png",
+    "pixels": [
+      1075,
+      665
+    ],
+    "processing": "Rasterized original figure crop from PDF with Poppler; no semantic changes; caption excluded."
+  }
+]

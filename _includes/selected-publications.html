@@ -1,0 +1,12 @@
+{% assign selected = site.data.publications | where: 'selected', true | sort: 'selected_order' %}
+{% for paper in selected %}
+<article class="selected-paper{% unless paper.image %} no-image{% endunless %}">
+  {% if paper.image %}<figure class="paper-figure"><a href="{{ paper.url }}" aria-label="Read {{ paper.title | escape }}"><img src="{{ paper.image | relative_url }}" width="416" height="280" alt="{{ paper.image_alt | escape }}" loading="lazy"></a><figcaption>{{ paper.figure_caption }}</figcaption></figure>{% endif %}
+  <div class="paper-content">
+    <div class="paper-topline"><span class="venue-tag">{{ paper.short_venue }} {{ paper.year }}</span>{% if paper.distinction %}<span class="distinction">{{ paper.distinction }}</span>{% endif %}</div>
+    <h3 class="paper-title"><a href="{{ paper.url }}">{{ paper.title }}</a></h3>
+    <p class="paper-authors">{{ paper.authors }}</p><p class="paper-venue">{{ paper.venue }}</p><p class="paper-summary">{{ paper.summary }}</p>
+    <div class="paper-links"><a href="{{ paper.url }}" aria-label="Read {{ paper.title | escape }}">Paper ↗</a>{% if paper.code %}<a href="{{ paper.code }}" aria-label="Code for {{ paper.title | escape }}">Code ↗</a>{% endif %}</div>
+  </div>
+</article>
+{% endfor %}

@@ -1,0 +1,12 @@
+{% assign groups = 'Foundation models & causal learning|Federated learning & wireless communications|Other conference papers' | split: '|' %}
+{% for group in groups %}
+<div class="publication-group"><h3>{{ group }}</h3><ol class="publication-list">
+  {% assign papers = site.data.publications | where: 'group', group %}
+  {% for paper in papers %}
+  <li><span class="authors">{{ paper.authors }}</span><br>
+    {% if paper.url %}<a class="pub-title" href="{{ paper.url }}">{{ paper.title }}</a>{% else %}<span class="pub-title">{{ paper.title }}</span>{% endif %}<br>
+    <span class="pub-details">{{ paper.venue }}{% if paper.details %}, {{ paper.details }}{% endif %}, {{ paper.year }}.</span>{% if paper.status %}<span class="status">{{ paper.status }}</span>{% endif %}{% if paper.distinction %}<span class="status">{{ paper.distinction }}</span>{% endif %}{% if paper.url %}<a class="paper-inline-link" href="{{ paper.url }}">[Paper]</a>{% endif %}
+  </li>
+  {% endfor %}
+</ol></div>
+{% endfor %}

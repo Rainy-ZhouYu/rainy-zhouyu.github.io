@@ -1,0 +1,122 @@
+- id: lego
+  title: 'Building LLMs Like LEGO: Two-dimensional Architecture Reassembly of Large Language Models'
+  authors: 'X. Wu, <strong>Y. Zhou*</strong>, K. C. Tan'
+  venue: 'Annual Meeting of the Association for Computational Linguistics (ACL)'
+  short_venue: ACL
+  year: 2026
+  distinction: Main Conference
+  url: https://aclanthology.org/2026.acl-long.2081/
+  group: Foundation models & causal learning
+  selected: true
+  selected_order: 3
+  summary: 'Reassembling pretrained language models across two architectural dimensions.'
+  image: /images/papers/lego-llm-figure1.png
+  image_alt: 'LEGO-LLM overview: model repository, chromosome representation, and bilevel architecture optimization.'
+  figure_caption: 'LEGO-LLM · Framework overview'
+- id: causalbn
+  title: 'CausalBN-Bench: A Comprehensive Benchmark for Causal Learning Capability of LLMs'
+  authors: '<strong>Y. Zhou</strong>, X. Wu, B. Huang, J. Wu, L. Feng, K. C. Tan'
+  venue: IEEE Transactions on Artificial Intelligence
+  details: 'Early access, doi: 10.1109/TAI.2026.3703427'
+  year: 2026
+  url: https://ieeexplore.ieee.org/abstract/document/11563437
+  group: Foundation models & causal learning
+- id: hm3
+  title: 'HM3: Hierarchical Multi-Objective Model Merging for Pretrained Models'
+  authors: '<strong>Y. Zhou</strong>, X. Wu, J. Wu, L. Feng, K. C. Tan'
+  venue: 'Neural Information Processing Systems (NeurIPS)'
+  short_venue: NeurIPS
+  year: 2025
+  distinction: Spotlight
+  url: https://proceedings.neurips.cc/paper_files/paper/2025/hash/a6b64e06886a190fabaaeecc695ea537-Abstract-Conference.html
+  group: Foundation models & causal learning
+  selected: true
+  selected_order: 1
+  summary: 'Hierarchical model merging that explores trade-offs among multiple objectives.'
+  image: /images/papers/hm3-figure1.png
+  image_alt: 'HM3 framework: architecture-level merging, actor-critic search, and a Pareto frontier.'
+  figure_caption: 'HM3 · Hierarchical model merging'
+- id: robustness
+  title: Towards Robustness and Explainability of Automatic Algorithm Selection
+  authors: 'X. Wu, J. Wu, <strong>Y. Zhou</strong>, L. Feng, K. C. Tan'
+  venue: International Conference on Machine Learning (ICML)
+  year: 2025
+  distinction: Spotlight
+  url: https://proceedings.mlr.press/v267/wu25aj.html
+  group: Foundation models & causal learning
+- id: solution-generators
+  title: Evaluation of Large Language Models as Solution Generators in Complex Optimization
+  authors: 'B. Huang, X. Wu, <strong>Y. Zhou</strong>, J. Wu, L. Feng, R. Cheng, K. C. Tan'
+  venue: IEEE Computational Intelligence Magazine
+  details: 'vol. 20, no. 4, pp. 56–70'
+  year: 2025
+  url: https://ieeexplore.ieee.org/abstract/document/11200056
+  group: Foundation models & causal learning
+- id: satellite
+  title: Decomposition and Meta-DRL Based Multi-Objective Optimization for Asynchronous Federated Learning in 6G-Satellite Systems
+  authors: '<strong>Y. Zhou</strong>, L. Lei, X. Zhao, L. You, Y. Sun, S. Chatzinotas'
+  venue: IEEE Journal on Selected Areas in Communications
+  short_venue: IEEE JSAC
+  details: 'vol. 42, no. 5, pp. 1115–1129'
+  year: 2024
+  url: https://ieeexplore.ieee.org/abstract/document/10436092
+  group: Federated learning & wireless communications
+  selected: true
+  selected_order: 2
+  summary: 'Multi-objective optimization for asynchronous federated learning in satellite communication systems.'
+  image: /images/papers/dmmafl-figure1.png
+  image_alt: 'System model of asynchronous federated learning with LEO satellites, ground gateways, and users.'
+  figure_caption: '6G satellites · Federated learning'
+- id: energy
+  title: Energy Optimization and Lightweight Design for Efficient Federated Learning in Wireless Edge Systems
+  authors: 'L. Lei, Y. Yuan, <strong>Y. Zhou*</strong>, Y. Yang, Y. Luo, L. Pu, S. Chatzinotas'
+  venue: IEEE Transactions on Vehicular Technology
+  details: 'vol. 73, no. 9, pp. 13542–13557'
+  year: 2024
+  url: https://ieeexplore.ieee.org/abstract/document/10484986
+  group: Federated learning & wireless communications
+- id: incentive
+  title: A Novel Incentive Mechanism for Federated Learning over Wireless Communications
+  authors: 'Y. Wang, <strong>Y. Zhou</strong>, P.-Q. Huang'
+  venue: IEEE Transactions on Artificial Intelligence
+  details: 'vol. 5, no. 11, pp. 5561–5574'
+  year: 2024
+  url: https://ieeexplore.ieee.org/abstract/document/10574861
+  group: Federated learning & wireless communications
+- id: bandwidth
+  title: Multi-Objective Optimization for Bandwidth-Limited Federated Learning in Wireless Edge Systems
+  authors: '<strong>Y. Zhou</strong>, X. Liu, L. Lei'
+  venue: IEEE Open Journal of the Communications Society
+  details: 'vol. 4, pp. 954–966'
+  year: 2023
+  url: https://ieeexplore.ieee.org/abstract/document/10098867
+  group: Federated learning & wireless communications
+- id: irs
+  title: 'Placement Optimization for Multi-IRS-Aided Wireless Communications: An Adaptive Differential Evolution Algorithm'
+  authors: 'P.-Q. Huang, <strong>Y. Zhou</strong>, K. Wang, B.-C. Wang'
+  venue: IEEE Wireless Communications Letters
+  details: 'vol. 11, no. 5, pp. 942–946'
+  year: 2022
+  url: https://ieeexplore.ieee.org/abstract/document/9712623
+  group: Federated learning & wireless communications
+- id: preference
+  title: Constrained Human Preference Alignment for Natural Language Planning with LLMs
+  authors: '<strong>Y. Zhou</strong>, H. Hong, R. Cheng, K. C. Tan'
+  venue: International Conference on Machine Intelligence and Nature-Inspired Computing (MIND)
+  year: 2025
+  url: https://ieeexplore.ieee.org/abstract/document/11351754
+  group: Other conference papers
+- id: wcnc
+  title: 'Efficient Federated Learning in 6G-Satellite Systems: Deep Reinforcement Learning Based Multi-Objective Optimization'
+  authors: '<strong>Y. Zhou</strong>, J. Guo, H. Li, J. Tian, X. Zhao, L. Lei'
+  venue: IEEE Wireless Communications and Networking Conference (WCNC)
+  year: 2024
+  url: https://ieeexplore.ieee.org/abstract/document/10571246
+  group: Other conference papers
+- id: iccc
+  title: 'Efficient Federated Learning in Wireless Communication Systems: A Multi-Objective Optimization Perspective'
+  authors: '<strong>Y. Zhou</strong>, X. Zhao, X. Liu, L. You, L. Lei'
+  venue: IEEE/CIC International Conference on Communications in China (ICCC)
+  year: 2023
+  url: https://ieeexplore.ieee.org/abstract/document/10233536
+  group: Other conference papers
