@@ -1,6 +1,6 @@
 # Yu Zhou — Academic Homepage
 
-Source for https://rainy-zhouyu.github.io/, prepared from homepage version 10.
+Source for https://rainy-zhouyu.github.io/, prepared from homepage version 12.
 
 ## Publish on GitHub Pages
 
@@ -13,7 +13,7 @@ Upload the contents of this folder to the root of the `Rainy-ZhouYu/rainy-zhouyu
 - `_data/navigation.yml`: navigation links.
 - `_includes/author-profile.html`: portrait and contact links.
 - `assets/css/homepage.css`: layout and typography.
-- `images/`: profile portrait and original paper figures.
+- `images/`: profile portrait, original paper figures, and official university emblems.
 
 ## Local build
 
@@ -29,3 +29,5 @@ bundle exec jekyll serve
 Based on [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io), with a layout inspired by [Minimal Light](https://github.com/yaoyao-liu/minimal-light). The upstream license is retained in `LICENSE`.
 
 The local icon sprite uses glyphs from the template-bundled Font Awesome 5 Free (Fonticons, Inc.) and Academicons (James Walsh); the source font licenses are SIL OFL 1.1. Paper-figure sources are recorded in `docs/paper-figure-sources.json`.
+
+University emblems come from official university websites; original sources are recorded in `docs/university-logo-sources.json`. All university marks remain the property of their respective institutions.

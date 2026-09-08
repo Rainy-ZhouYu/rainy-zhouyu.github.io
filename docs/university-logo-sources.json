@@ -1,0 +1,37 @@
+{
+  "note": "Original image bytes from official university websites. Images are used to identify educational affiliations; all university marks remain the property of their respective institutions. PolyU is centered with CSS object-fit to display its emblem without stretching.",
+  "logos": [
+    {
+      "school": "The Hong Kong Polytechnic University",
+      "page": "https://www.polyu.edu.hk/about-polyu/university-identity/",
+      "url": "https://www.polyu.edu.hk/-/media/department/home/content/about-polyu/university-identity/logo_1200x672_with-bg.jpg?bc=ffffff&h=336&hash=E881BF93D3E13ABEDC8E1A528EE58767&rev=e7968d84f1884c2893c72cac91815018&w=600",
+      "asset": "images/universities/polyu.jpg",
+      "sha256": "0eb483a8b87b5f590e599ab2077dc5c0f64715129c8f4f8fced2fdd520b20723",
+      "downloaded": "2026-09-08"
+    },
+    {
+      "school": "Xi'an Jiaotong University",
+      "page": "https://vi.xjtu.edu.cn/jcbf/xhgf.htm",
+      "url": "https://vi.xjtu.edu.cn/images/a3-2jdxhblue.png",
+      "asset": "images/universities/xjtu.png",
+      "sha256": "2b6494ea6cb07db46710f06413b0bd191b946ea80f5a5f09017911a40f9eba3c",
+      "downloaded": "2026-09-08"
+    },
+    {
+      "school": "Central South University",
+      "page": "https://www.csu.edu.cn/info/1417/8070.htm",
+      "url": "https://www.csu.edu.cn/__local/5/85/66/A8DA6D0E8DD76C7FDDB81792C28_F0410DE8_8BDF4.png",
+      "asset": "images/universities/csu.png",
+      "sha256": "29b000119407efd7f121bbadf68429cdbd3c4a0a9cc712c93a308fd9880904d5",
+      "downloaded": "2026-09-08"
+    },
+    {
+      "school": "Southwest Petroleum University",
+      "page": "https://www.swpu.edu.cn/sdwh/bsxt.htm",
+      "url": "https://www.swpu.edu.cn/virtual_attach_file.vsb?afc=5olMCfozU4ozGPoQRQ7M4-bnlnknNUqsozQRLz-bLmNaUmN0gihFp2hmCIa0MkhRMkh2LSyYMzVkU4lDLlCbnzrRMlCinlM2L774n7LPUmrFLm6Vozl4UzTFLz98ozlJqjfjo4OeosMN6D90qIbtpYyxLYyxLYbw62p8c&oid=1578434744&e=.jpg",
+      "asset": "images/universities/swpu.jpg",
+      "sha256": "c7248aabcd7507c1df0ddc65ef12ea65d9ff0a19a5553810f97d1b75deead25a",
+      "downloaded": "2026-09-08"
+    }
+  ]
+}

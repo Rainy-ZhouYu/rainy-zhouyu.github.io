@@ -7,7 +7,7 @@ layout: default
   <p>I am a Ph.D. candidate in the <a href="https://www.polyu.edu.hk/dsai/">Department of Data Science and Artificial Intelligence</a> at <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a>, working with <a href="https://www.polyu.edu.hk/dsai/people/academic-staff/tankaychen/">Prof. Kay Chen Tan</a>, <a href="https://wuxingyu-ai.github.io/">Prof. Xingyu Wu</a>, and <a href="https://www.jibinwu.com/">Prof. Jibin Wu</a> in <a href="https://www.mindlab-ai.com/team">MIND Lab</a>.</p>
   <p>My research focuses on <strong>model reuse and merging for large foundation models</strong>, <strong>causal learning</strong>, <strong>federated learning</strong>, and <strong>intelligent optimization</strong>. I am interested in selecting and combining pretrained models, collaboration across models, and learning causal structure with language models. My earlier work studied multi-objective optimization for federated learning in wireless and satellite systems.</p>
   <p>Before joining PolyU, I received my M.S. in Control Science and Engineering from the Department of Artificial Intelligence, School of Automation, <a href="https://www.csu.edu.cn/">Central South University</a>, in 2023. I earned my B.S. in Automation from <a href="https://www.swpu.edu.cn/">Southwest Petroleum University</a> in 2020. In 2023, I was also a visiting student at the School of Information and Communications Engineering, <a href="https://www.xjtu.edu.cn/">Xi'an Jiaotong University</a>.</p>
-  <p>For anything about research, resources, and other related matters, please feel free to contact me via <strong>email (<a href="mailto:zy-yu.zhou@connect.polyu.hk">zy-yu.zhou@connect.polyu.hk</a>)</strong>. I would be delighted to exchange ideas on <strong>LLM model reuse, federated learning, EC, optimization, and 6G communication systems (i.e., low Earth orbit)</strong>.</p>
+  <p>For anything about research, resources, and other related matters, please feel free to contact me via <strong>email (<a href="mailto:zy-yu.zhou@connect.polyu.hk">zy-yu.zhou@connect.polyu.hk</a>)</strong>. I would be delighted to exchange ideas on <strong>LLM model reuse, federated learning, EC, optimization, and 6G communication systems (i.e., low earth orbit)</strong>.</p>
   <p>Additionally, we welcome you to follow MIND Lab’s official WeChat account for the latest research updates, recruitment information, and more: <strong>MINDLAB POLYU</strong>.</p>
 </section>
 <section class="section" id="research">
@@ -30,10 +30,34 @@ layout: default
 <section class="section" id="education">
   <h2>Education &amp; experience</h2>
   <div class="education-list">
-    <div class="education-item"><div class="dates">2023 — Present</div><div><h3>The Hong Kong Polytechnic University</h3><p class="degree">Ph.D. Candidate</p><p>Supervisors: <a href="https://www.polyu.edu.hk/dsai/people/academic-staff/tankaychen/">Prof. Kay Chen Tan</a> and <a href="https://wuxingyu-ai.github.io/">Prof. Xingyu Wu</a></p></div></div>
-    <div class="education-item"><div class="dates">2023</div><div><h3>Xi'an Jiaotong University</h3><p class="degree">Visiting Student</p><p>School of Information and Communications Engineering</p><p>Supervisor: <a href="https://scholar.google.com.hk/citations?user=yvQhDoMAAAAJ&amp;hl=zh-CN">Prof. Lei Lei</a></p></div></div>
-    <div class="education-item"><div class="dates">2020 — 2023</div><div><h3>Central South University</h3><p class="degree">M.S., Control Science and Engineering</p><p>Department of Artificial Intelligence, School of Automation</p><p>Supervisor: <a href="https://faculty.csu.edu.cn/wangyong/zh_CN/index.htm">Prof. Yong Wang</a></p></div></div>
-    <div class="education-item"><div class="dates">2016 — 2020</div><div><h3>Southwest Petroleum University</h3><p class="degree">B.S., Automation</p><p>School of Electrical Engineering and Information</p><p>GPA: 3.91 · Rank: 3 / 178</p></div></div>
+    <div class="education-item">
+      <div class="dates">2023 — Present</div>
+      <div class="education-school">
+        <img class="university-emblem university-emblem-polyu" src="{{ '/images/universities/polyu.jpg' | relative_url }}" width="52" height="52" alt="" loading="lazy" decoding="async">
+        <div><h3>The Hong Kong Polytechnic University</h3><p class="degree">Ph.D. Candidate</p><p>Supervisors: <a href="https://www.polyu.edu.hk/dsai/people/academic-staff/tankaychen/">Prof. Kay Chen Tan</a> and <a href="https://wuxingyu-ai.github.io/">Prof. Xingyu Wu</a></p></div>
+      </div>
+    </div>
+    <div class="education-item">
+      <div class="dates">2023</div>
+      <div class="education-school">
+        <img class="university-emblem" src="{{ '/images/universities/xjtu.png' | relative_url }}" width="52" height="52" alt="" loading="lazy" decoding="async">
+        <div><h3>Xi'an Jiaotong University</h3><p class="degree">Visiting Student</p><p>School of Information and Communications Engineering</p><p>Supervisor: <a href="https://scholar.google.com.hk/citations?user=yvQhDoMAAAAJ&amp;hl=zh-CN">Prof. Lei Lei</a></p></div>
+      </div>
+    </div>
+    <div class="education-item">
+      <div class="dates">2020 — 2023</div>
+      <div class="education-school">
+        <img class="university-emblem" src="{{ '/images/universities/csu.png' | relative_url }}" width="52" height="52" alt="" loading="lazy" decoding="async">
+        <div><h3>Central South University</h3><p class="degree">M.S., Control Science and Engineering</p><p>Department of Artificial Intelligence, School of Automation</p><p>Supervisor: <a href="https://faculty.csu.edu.cn/wangyong/zh_CN/index.htm">Prof. Yong Wang</a></p></div>
+      </div>
+    </div>
+    <div class="education-item">
+      <div class="dates">2016 — 2020</div>
+      <div class="education-school">
+        <img class="university-emblem" src="{{ '/images/universities/swpu.jpg' | relative_url }}" width="52" height="52" alt="" loading="lazy" decoding="async">
+        <div><h3>Southwest Petroleum University</h3><p class="degree">B.S., Automation</p><p>School of Electrical Engineering and Information</p><p>GPA: 3.91 · Rank: 3 / 178</p></div>
+      </div>
+    </div>
   </div>
 </section>
 <section class="section" id="projects">
