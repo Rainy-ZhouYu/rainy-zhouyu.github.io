@@ -15,7 +15,8 @@ layout: default
   <dl class="research-list">
     <div><dt>Foundation models</dt><dd>Model selection and merging; vision-language models; collaboration of small and large models.</dd></div>
     <div><dt>Causal learning</dt><dd>Causal discovery with language models; evaluating causal learning capabilities; causality-based machine learning.</dd></div>
-    <div><dt>Intelligent optimization</dt><dd>Multi-objective and bilevel optimization; evolutionary transfer optimization; federated learning for wireless and satellite systems.</dd></div>
+    <div><dt>Intelligent optimization</dt><dd>Multi-objective optimization; bilevel optimization; evolutionary optimization; transfer optimization.</dd></div>
+    <div><dt>Federated learning</dt><dd>Communication efficiency; incentive mechanisms; data heterogeneity; model heterogeneity.</dd></div>
   </dl>
 </section>
 <section class="section" id="selected-publications">
