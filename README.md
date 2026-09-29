@@ -1,7 +1,5 @@
 # Academic Homepage
 
-Source for https://rainy-zhouyu.github.io/.
-
 ## Publish on GitHub Pages
 
 Upload the contents of this folder to the root of the `Rainy-ZhouYu/rainy-zhouyu.github.io` repository. In Settings → Pages, choose **Deploy from a branch**, **main**, and **/(root)**, then save.
