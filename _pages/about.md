@@ -70,7 +70,7 @@ layout: default
     <li><time datetime="2026-03">Mar 2026</time><span><strong>Outstanding Work by Students</strong>, The Hong Kong Polytechnic University. <a href="https://ows.lib.polyu.edu.hk/s/ows/page/evolutionary-excellence-bridging-the-gap-in-multilingual-ai">Details ↗</a></span></li>
     <li><time datetime="2025-11">Nov 2025</time><span><strong>Best Poster Candidate</strong>, International Conference on Machine Intelligence and Nature-Inspired Computing (MIND).</span></li>
     <li><time datetime="2025-01">Jan 2025</time><span><strong>First Prize Winner</strong>, IEEE CIS FLAME Technical Challenge 2024. <a href="https://www.polyu.edu.hk/dsai/news-and-events/news/2025/20250113-ieee/">Details ↗</a></span></li>
-    <li><time datetime="2024-06">Jun 2024</time><span><strong>Best Poster Presentation Award</strong>, COMP 50th Anniversary Research Student Conference, PolyU.</span></li>
+    <li><time datetime="2024-06">Jun 2024</time><span><strong>Best Poster Presentation Award</strong>, COMP 50th Anniversary Research Student Conference, PolyU. <a href="https://www.polyu.edu.hk/comp/news-and-events/news/2024/0626_research-student-conference/">Details ↗</a></span></li>
     <li><time datetime="2022-10">Oct 2022</time><span><strong>Outstanding Paper</strong>, Hunan Province Graduate Innovation Conference.</span></li>
     <li><time datetime="2022-01">Jan 2022</time><span><strong>Second Prize</strong>, China Post-graduate Mathematical Contest in Modeling.</span></li>
     <li><time datetime="2020-10">Oct 2020</time><span><strong>China National Petroleum Corporation Scholarship.</strong></span></li>
