@@ -11,7 +11,7 @@ layout: default
 <section class="section" id="research">
   <h2>Research interests</h2>
   <dl class="research-list">
-    <div><dt>Foundation models</dt><dd>Model selection and merging; vision-language models; collaboration of small and large models.</dd></div>
+    <div><dt>Foundation models</dt><dd>Model selection and model merging; vision-language models; model collaboration of small and large models.</dd></div>
     <div><dt>Causal learning</dt><dd>Causal discovery with language models; evaluating causal learning capabilities; causality-based machine learning.</dd></div>
     <div><dt>Intelligent optimization</dt><dd>Multi-objective optimization; bilevel optimization; evolutionary optimization; transfer optimization.</dd></div>
     <div><dt>Federated learning</dt><dd>Communication efficiency; incentive mechanisms; data heterogeneity; model heterogeneity.</dd></div>
