@@ -82,6 +82,6 @@ layout: default
   <h2>Professional service</h2>
   <div class="service-columns">
     <div><h3>Program committee</h3><ul><li>AAAI 2025, 2026, 2027</li><li>NeurIPS 2025, 2026</li><li>ICLR 2025, 2026, 2027</li></ul></div>
-    <div><h3>Journal reviewer</h3><ul><li>IEEE Journal on Selected Areas in Communications</li><li>IEEE Transactions on Evolutionary Computation</li><li>IEEE Transactions on Systems, Man, and Cybernetics: Systems</li><li>IEEE Transactions on Wireless Communications</li><li>IEEE Computational Intelligence Magazine</li><li>Information Processing &amp; Management</li><li>IEEE Internet of Things Journal</li><li>IEEE Transactions on Cognitive and Developmental Systems</li><li>IEEE Communications Magazine</li><li>Pattern Recognition</li></ul></div>
+    <div><h3>Journal reviewer</h3><ul><li>IEEE Journal on Selected Areas in Communications</li><li>IEEE Transactions on Evolutionary Computation</li><li>IEEE Transactions on Systems, Man, and Cybernetics: Systems</li><li>IEEE Transactions on Wireless Communications</li><li>IEEE Transactions on Cognitive and Developmental Systems</li><li>IEEE Internet of Things Journal</li><li>IEEE Computational Intelligence Magazine</li><li>IEEE Communications Magazine</li><li>Information Processing &amp; Management</li><li>Pattern Recognition</li></ul></div>
   </div>
 </section>
