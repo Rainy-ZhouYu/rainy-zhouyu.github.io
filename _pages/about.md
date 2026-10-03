@@ -81,7 +81,15 @@ layout: default
 <section class="section" id="service">
   <h2>Professional service</h2>
   <div class="service-columns">
-    <div><h3>Program committee</h3><ul><li>AAAI 2025, 2026, 2027</li><li>NeurIPS 2025, 2026</li><li>ICLR 2025, 2026, 2027</li></ul></div>
+    <div class="service-committee">
+      <h3>Program committee</h3>
+      <div class="committee-content">
+        <ul><li>AAAI 2025, 2026, 2027</li><li>NeurIPS 2025, 2026</li><li>ICLR 2025, 2026, 2027</li></ul>
+        <a class="visitor-counter" href="https://s01.flagcounter.com/more/Zv" target="_blank" rel="noopener noreferrer" aria-label="View visitor statistics by country on Flag Counter">
+          <img src="https://s01.flagcounter.com/count2/Zv/bg_FFFFFF/txt_252E36/border_FFFFFF/columns_1/maxflags_8/viewers_0/labels_0/pageviews_1/flags_0/percent_1/" alt="Visitors by country and total pageviews" decoding="async" referrerpolicy="strict-origin-when-cross-origin">
+        </a>
+      </div>
+    </div>
     <div><h3>Journal reviewer</h3><ul><li>IEEE Journal on Selected Areas in Communications</li><li>IEEE Transactions on Evolutionary Computation</li><li>IEEE Transactions on Systems, Man, and Cybernetics: Systems</li><li>IEEE Transactions on Wireless Communications</li><li>IEEE Transactions on Cognitive and Developmental Systems</li><li>IEEE Internet of Things Journal</li><li>IEEE Computational Intelligence Magazine</li><li>IEEE Communications Magazine</li><li>Information Processing &amp; Management</li><li>Pattern Recognition</li></ul></div>
   </div>
 </section>
